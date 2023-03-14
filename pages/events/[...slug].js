@@ -1,4 +1,8 @@
+
 function FilteredEventsPage() {
+    
+
+
     return (
         <div>
             <h1>Filtered Events</h1>
