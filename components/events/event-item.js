@@ -22,8 +22,8 @@ function EventItem({ title, image, date, location, id }) {
             <Image 
                 src={'/' + image}
                 alt={title}
-                width={250}
-                height={160}
+                width={400}
+                height={400}
             />
             <div className={classes.content}>
                 <div className={classes.summary}>
